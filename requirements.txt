@@ -1,0 +1,20 @@
+pandas
+scikit-learn
+matplotlib
+seaborn
+kaggle
+joblib
+
+
+"""Here is a simple guide on how to use it:
+
+Save the file: 
+    Ensure you have the requirements.txt file in the main folder of your project.
+
+Open your terminal or command prompt: 
+    Navigate to the folder where the file is saved.
+
+Run the installation command: 
+    Use the following command to install all the libraries listed in the file:
+
+pip install -r requirements.txt"""
